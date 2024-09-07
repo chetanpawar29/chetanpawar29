@@ -45,7 +45,7 @@
 <a href = "https://twitter.com/chetanvpawar29"><img src="https://img.icons8.com/fluency/48/twitter.png"/></a>
 </p>
 
-## 👀 Views and Followers
+## 👀 Views:
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=chetanpawar29">
 </a>
