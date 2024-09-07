@@ -26,11 +26,11 @@
 
 ## **My Github Stats:**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanpawar29&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="chetanpawar29 Top Languages" /></p>
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanpawar29&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="chetanpawar29 Top Languages" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chetanpawar29&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="chetanpawar29 GitHub Stats" /></p>
+<p  ><img align="left" src="https://github-readme-stats.vercel.app/api?username=chetanpawar29&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="chetanpawar29 GitHub Stats" /></p>
 
-<p align="left">&nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=chetanpawar29&theme=nightowl&hide_border=false" alt="chetanpawar29 GitHub Streak" /></p>
+<p >&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetanpawar29&theme=nightowl&hide_border=false" alt="chetanpawar29 GitHub Streak" /></p>
 
 
 ## Connect with me:
