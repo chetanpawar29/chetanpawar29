@@ -26,11 +26,12 @@
 
 ## **My Github Stats:**
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api?username=chetanpawar29&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="chetanpawar29 GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanpawar29&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="chetanpawar29 Top Languages" />
+  <img style="margin-left: 20px; margin-top: 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanpawar29&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="chetanpawar29 Top Languages" />
 </div>
 
+<br>
 
 <p >&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetanpawar29&theme=nightowl&hide_border=false" alt="chetanpawar29 GitHub Streak" /></p>
 
