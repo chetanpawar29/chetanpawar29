@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Chetan</h1>
-<h3 align="center">Full Stack Web Developer Passionate About Creating Dynamic, User-Centric Solutions</h3>
+<h3 align="center">👨‍💻 Full Stack Web Developer Passionate About Creating Dynamic, User-Centric Solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanpawar29&label=Profile%20views&color=0e75b6&style=flat" alt="chetanpawar29" /> </p>
+
 
 - 🔭 I’m currently pursuing **B.Tech degree in computer science and Graduate in 2026**
-
-- 🌱 I’m currently learning **Spring Boot,DSA**
-
 - ✨ A Full Stack Web Developer **specializing in building scalable web applications with Spring Framework, and skilled in front-end development using React.js.**
 
-- 👨‍💻 All of my projects are available at My GitHub [https://github.com/chetanpawar29](https://github.com/chetanpawar29)
+- 🌱 I’m currently learning **Spring Boot, DSA**
+
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/chetanpawar29)
 
 - 📫 How to reach me **chetanpawar2901@gamil.com**
 
@@ -35,4 +34,14 @@
 
 
 ## Connect with me:
+
+<p align="left">
+ 
 <a href = "https://www.linkedin.com/in/chetan-pawar-a023a2240/"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
+<a href = "https://twitter.com/chetanvpawar29"><img src="https://img.icons8.com/fluency/48/twitter.png"/></a>
+</p>
+
+## 👀 Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=chetanpawar29">
+</a>
