@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 <h3 align="center">👨‍💻 Full Stack Web Developer Passionate About Creating Dynamic, User-Centric Solutions.</h3>
 
-
+## About Me
 
 - 🔭 I’m currently pursuing **B.Tech degree in computer science and Graduate in 2026**
 - ✨ A Full Stack Web Developer **specializing in building scalable web applications with Spring Framework, and skilled in front-end development using React.js.**
