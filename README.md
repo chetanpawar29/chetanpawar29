@@ -1,8 +1,9 @@
 <div align="center">
   <a href="#">
-    <img src="https://i.ibb.co/CbwP45g/th.jpg" alt="My Avatar">
+    <img src="https://i.postimg.cc/xdg3BtRS/5e158699-2402-4e95-b9a0-0842e3a9238a.jpg"  >
   </a>
 </div>
+
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 <h3 align="center">👨‍💻 Full Stack Web Developer Passionate About Creating Dynamic, User-Centric Solutions.</h3>
 
