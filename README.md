@@ -17,6 +17,8 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/chetanpawar29)
 
+- 🌐 Check out my portfolio: [chetans-portfolio.vercel.app](https://chetans-portfolio.vercel.app/)
+
 - 📫 How to reach me **chetanpawar2901@gamil.com**
 
 ## **Coding Profiles**:
